@@ -2,7 +2,7 @@
 
 ### 🌼 🧑‍💻 🐝
 
-https://variablej.bandcamp.com/track/fl0w3r-p0w3r-live-coded-remix
+https://open.spotify.com/track/3SMcB2VZnpo7BWrJmUyNNu?si=9988b9f5cba64b13
 
 source code for a sonic pi remix of fl0w3r p0w3r by variable j
 
